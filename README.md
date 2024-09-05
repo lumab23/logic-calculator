@@ -17,6 +17,9 @@ Uma calculadora lógica projetada para auxiliar na resolução de problemas rela
 - **Condicional (→)**: Implicação lógica entre duas proposições.
 - **Bicondicional (↔)**: Equivalência lógica entre duas proposições.
 
+## Acesse a calculadora
+[Calculadora - Lógica Proposicional](https://lumab23.github.io/logic-calculator/)
+
 ## Contribuidores
 - <img src="https://github.com/lumab23.png" alt="Luma" width="30" height="30"> [Luma](https://github.com/lumab23)
 - <img src="https://github.com/Amandafonsecarodrigues.png" alt="Amanda" width="30" height="30"> [Amanda](https://github.com/Amandafonsecarodrigues)
