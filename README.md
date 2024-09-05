@@ -18,5 +18,5 @@ Uma calculadora lógica projetada para auxiliar na resolução de problemas rela
 - **Bicondicional (↔)**: Equivalência lógica entre duas proposições.
 
 ## Contribuidores
-- [Luma](https://github.com/lumab23)
-- [Amanda](https://github.com/Amandafonsecarodrigues)
+- ![Luma](https://github.com/lumab23.png) [Luma](https://github.com/lumab23)
+- ![Amanda](https://github.com/Amandafonsecarodrigues.png) [Amanda](https://github.com/Amandafonsecarodrigues)
