@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logic Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="calculator">
+        <div id="brand">
+            <h1>CASIO</h1>
+            <p>fx-991LA CW</p>
+        </div>
+        <textarea id="display" readonly></textarea>
+        <div id="keys">
+            <button onclick="clearDisplay()" class="calc-button clear">C</button>
+            <button onclick="deleteChar()" class="calc-button delete">DEL</button>
+            <button onclick="appendToDisplay('(')" class="calc-button simbolos">(</button>
+            <button onclick="appendToDisplay(')')" class="calc-button simbolos">)</button>
+
+            <button onclick="appendToDisplay('P')" class="calc-button char-button">P</button>
+            <button onclick="appendToDisplay('Q')" class="calc-button char-button">Q</button>
+            <button onclick="appendToDisplay('^')" class="calc-button simbolos">∧</button>
+            <button onclick="appendToDisplay('v')" class="calc-button simbolos">∨</button>
+
+            <button onclick="appendToDisplay('R')" class="calc-button char-button">R</button>
+            <button onclick="appendToDisplay('→')" class="calc-button simbolos">→</button>
+            <button onclick="appendToDisplay('↔')" class="calc-button simbolos">↔</button>
+            <button onclick="appendToDisplay('~')" class="calc-button simbolos">~</button>
+
+            <button onclick="evaluateProposition()" class="calc-button equals" colspan="4">=</button>
+        </div>
+    </div>
+
+    <div id="tabela-verdade"></div>
+    <div id="provar-tautologia"></div>
+
+    <script src="calculator.js"></script>
+</body>
+
+</html>
