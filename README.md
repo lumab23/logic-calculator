@@ -24,3 +24,4 @@ Uma calculadora lógica projetada para auxiliar na resolução de problemas rela
 - <img src="https://github.com/lumab23.png" alt="Luma" width="30" height="30"> [Luma](https://github.com/lumab23)
 - <img src="https://github.com/Amandafonsecarodrigues.png" alt="Amanda" width="30" height="30"> [Amanda](https://github.com/Amandafonsecarodrigues)
 - <img src="https://github.com/KaylanyVitoria.png" alt="Kaylany" width="30" height="30"> [Kaylany](https://github.com/KaylanyVitoria)
+- <img src="https://github.com/raquelx99.png" alt="Raquel" width="30" height="30"> [Raquel](https://github.com/raquelx99)
